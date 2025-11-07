@@ -15,7 +15,7 @@ We use KNN to predict the species of a flower based on these features.
 
 ⸻
 
-## Project Goals
+## Project Goals.
 
     1.	Load and explore the Iris dataset using Pandas
     2.	Visualize data with Matplotlib (scatter plots, pair plots)
